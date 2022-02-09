@@ -1,0 +1,26 @@
+cd = entrar/navegar em pasta
+cd.. = pra retroceder um nivel
+ls = listar dentro da pasta
+clear=  limpar ou ctrl + L
+tab = auto ompletar
+mkdir = criar pasta
+rm -rf = excluir pastas inteiras
+echo = criar arquivo
+git add = adicionar arquivo ou pasta 
+git add * = adiciona todas as alteraçoes
+git status = status da pasta
+git commiti  -m "msg" = add no repositorio 
+git config --list = 
+git remote -v = pra ver os repositorios vinculados
+git push (apelido do https) = pra enviar o commit pro repositorio
+git pull ( apelido ...) = pra puxar do repositorio
+git clone http= copiar o  repositorio do github
+git commit merge = fundir a branche principal 
+git branch = para ver a branch atual
+git checkout = se mover pelas bransh
+git checkout -b (nome)= cria uma nova bransh e a move pra ela
+
+
+tag HEAD =apontamento do local onde vc esta
+
+:q! = sai do editor de msg de commit
