@@ -19,6 +19,14 @@
 #git branch = para ver a branch atual
 #git checkout = se mover pelas bransh
 #git checkout -b (nome)= cria uma nova bransh e a move pra ela
+#cd = navega entre pastas
+#git log= histórico de commits
+# Q = sais do histórico
+#git log (pasta) = ver histórico de uma pasta específica ou arquivo
+#git log --one line = histórico de commits de forma resumida
+#gitk = abre de forma gráfica o histórico
+#git reset --soft HEAD-1 = reverte o último commit ou +
+#git revert [hash do commit]
 
 
 #tag HEAD =apontamento do local onde vc esta
